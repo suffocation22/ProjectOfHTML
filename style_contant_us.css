@@ -1,0 +1,17 @@
+body{
+    background: darksalmon;
+   text-align: center;
+}
+
+#big{
+    font-size: 35px;
+    text-align: center;
+        color: indigo;
+        font-family: cursive;
+}
+#small{
+ font-size: 32px;
+    text-align: center;
+        color: indigo;
+        font-family: cursive;
+}

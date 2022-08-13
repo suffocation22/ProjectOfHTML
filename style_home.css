@@ -1,0 +1,21 @@
+body{
+    background: bisque;
+    text-align: center;
+}
+#myH1{
+        background-image: url(121.jpg);
+    font-size: 45px;
+    font-family: cursive;
+    color: indigo;
+    FONT-WEIGHT: 800;
+    margin: inherit;
+    text-align: center;
+}
+
+#myH3{
+    font-size: 25px;
+}
+.p1{
+    font-size: 22px;
+}
+

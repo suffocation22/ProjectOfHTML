@@ -1,0 +1,30 @@
+body{
+    background: #d49724d8;
+}
+
+
+#big_title{
+    color: #ff1a75;
+    font-size: 35px;
+    font-family: cursive;
+    text-align: center;
+}
+#small_title{
+    color: #ff1a1a;
+    font-size: 25px;
+    font-family: cursive;
+    text-align: center;
+}
+.s_t1{
+    font-size: 21px;
+    margin-block-end: inherit;
+    font-weight: bold;
+}
+.s_t2{
+    font-size: 24px;
+    margin-block-end: inherit;
+    font-weight: bold;
+}
+.per{
+    font-size: 18px;
+}
